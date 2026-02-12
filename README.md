@@ -82,3 +82,15 @@ allocated where they matter most.
 
 ## 📂 Repository Structure
 
+```
+clv-retention-analytics/
+│
+├──Dashboard/
+├── notebooks/
+│   └── clv_retention_framework.ipynb
+├── report/
+│   └── AI-Driven-CLV-and-Retention-Analytics.docx
+└── README.md
+```
+
+
