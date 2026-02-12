@@ -62,11 +62,23 @@ This project answers:
 ---
 
 ## 📊 Key Insights
-- A small percentage of customers contributed the majority of revenue.
-- Certain high-value customers showed declining engagement signals.
-- Focused retention efforts can significantly reduce revenue volatility.
+
+- ~20% of customers contributed ~70–80% of total revenue (Pareto concentration observed).
+- A subset of high-CLV customers showed declining recency scores — indicating churn risk.
+- Revenue exposure was concentrated among a small segment, increasing volatility risk.
+- Targeted retention for top-tier customers delivers higher ROI than blanket campaigns.
+
 
 ---
+
+## 🧠 Strategic Takeaway
+
+Customer analytics is most powerful when tied to revenue protection.
+
+Rather than predicting churn generically, this framework prioritizes customers 
+based on lifetime value and business impact — ensuring retention budgets are 
+allocated where they matter most.
+
 
 ## 📂 Repository Structure
 
